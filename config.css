@@ -1,0 +1,7 @@
+.grid-1{
+    display: grid;
+    grid-template-columns: 10.8rem 1fr;
+}
+.cuadritos{
+    
+}
